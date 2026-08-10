@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Matthew+%F0%9F%91%8B;CS+%2B+Commerce+(Cybersecurity)+%40+UNSW;Building+Talloc+%26+Glassbox;2IC+Drones+%26+Robotics+%40+AAC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Matthew;CS+%2B+Commerce+(Cybersecurity)+%40+UNSW;Building+Talloc+%26+Glassbox;2IC+Drones+%26+Robotics+%40+AAC" alt="Typing SVG" />
 
 </div>
 
 ### About me
 
-- 🎓 Studying Computer Science & Commerce (Cybersecurity Management) @ UNSW Sydney
-- 🛠️ Currently building **[Talloc](https://talloc.kings.edu.au)** - a production shift-scheduling & payroll platform
-- 🔐 Also building **Glassbox** - a Docker containerised sandbox platform for hands-on security learning
-- 🌏 Studied a term abroad at the University of Hong Kong
-- 📄 [Resume](#) &nbsp;·&nbsp; [LinkedIn](#)
+- Studying Computer Science & Commerce (Cybersecurity Management) @ UNSW Sydney
+- Currently building **[Talloc](https://talloc.kings.edu.au)** — a production shift-scheduling & payroll platform
+- Also building **Glassbox** — a containerised sandbox platform for hands-on security learning
+- Studied a term abroad at the University of Hong Kong
+- [Resume](#) &nbsp;·&nbsp; [LinkedIn](#)
 
 <br>
 
@@ -36,7 +36,7 @@
 ### Featured projects
 
 **[Talloc (Tutor Allocation)](https://github.com/SoftwareDesignDevKings/Kings-Talloc)**
-Shift scheduling & payroll platform used in production at The King's School-— Next.js, Firebase, Azure SSO, automated payroll pipeline.
+Shift scheduling & payroll platform used in production at The King's School — Next.js, Firebase, Azure SSO, automated payroll pipeline.
 
 **Glassbox**
 Containerised platform hosting isolated, hardened sandboxes for hands-on security exercises, with WebContainer/WASM-based in-browser execution and an automated grading service.
