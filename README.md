@@ -42,14 +42,3 @@ Shift scheduling & payroll platform used in production at The King's School — 
 Containerised platform hosting isolated, hardened sandboxes for hands-on security exercises, with WebContainer/WASM-based in-browser execution and an automated grading service.
 
 <br>
-
-### GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MattM5000&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattM5000&layout=compact&theme=default&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=MattM5000&theme=default&hide_border=true" />
-
-</div>
