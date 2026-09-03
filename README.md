@@ -10,7 +10,7 @@
 - Currently building **[Talloc](https://talloc.kings.edu.au)** — a production shift-scheduling & payroll platform
 - Also building **Glassbox** — a containerised sandbox platform for hands-on security learning
 - Studied a term abroad at the University of Hong Kong
-- [Resume](#) &nbsp;·&nbsp; [LinkedIn](#)
+- &nbsp; [LinkedIn](#)
 
 <br>
 
